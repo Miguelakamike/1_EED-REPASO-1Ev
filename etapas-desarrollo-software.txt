@@ -1,0 +1,7 @@
+ETAPAS DEL DESARROLLO DEL SOFTWARE
+1.- Análisis
+2.- Diseño
+3.- Implementación
+4.- Pruebas
+5.- Despliegue
+6.- Mantenimiento
